@@ -1,0 +1,8 @@
+Xjk=
+8 30 0
+3 0 26
+Uj=		 [1, 1]
+Dk=		 [11 30 26]
+Optim        = 6697
+Cost     D2R = 4575
+Cost fix D2R = 2122
