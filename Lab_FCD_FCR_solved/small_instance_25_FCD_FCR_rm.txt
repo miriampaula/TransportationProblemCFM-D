@@ -1,0 +1,10 @@
+Fj=		 [4649 1192]
+Xjk=
+27 0 62
+25 28 0
+Uj=		 [1, 1]
+Dk=		 [52 28 62]
+Optim        = 15480
+Cost fix OpD = 5841
+Cost     D2R = 7573
+Cost fix D2R = 2066
